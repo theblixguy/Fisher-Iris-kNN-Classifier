@@ -5,4 +5,4 @@ Part of Coursework 1 for U08089 Machine Learning.
 
 ## Why is k = 9?
 
-*k* = 9 was chosen after doing hyperparameter tuning using cross-validation on the training set and the one standard error rule.
+*k* = 9 was chosen after doing hyperparameter tuning using cross-validation on the training set and applying one standard error rule.
